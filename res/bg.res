@@ -1,0 +1,1 @@
+IMAGE bg "bg.bmp" NONE 1

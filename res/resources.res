@@ -1,0 +1,1 @@
+SPRITE sphere "sphere.bmp" 4 4 -1 0 BOX 
